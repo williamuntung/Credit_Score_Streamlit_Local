@@ -70,7 +70,7 @@ def main():
         )
         Payment_of_Min_Amount = st.radio(
             "Indikator apakah nasabah sering membayar tagihan kartu kredit hanya dalam jumlah minimum saja",
-            ['Yes', 'No']
+            ['No', 'Yes']
         )
         Total_EMI_per_month = st.number_input(
             "Total cicilan bulanan nasabah", 0.0, 90000.0, step=0.000001

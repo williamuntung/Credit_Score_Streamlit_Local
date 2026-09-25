@@ -4,11 +4,6 @@ mlruns/
 ingested/
 artifacts/*
 !artifacts/Extremely Randomized Trees (Extra Trees).pkl
-*.csv
 Dokumentasi_PROJECT_UAS_MD.docx
 .ipynb_checkpoints/
 .vscode/
-*.pdf
-*.docx
-AWS/*
-DOKUMENTASI/

@@ -5,11 +5,6 @@ ingested/
 artifacts/*
 !artifacts/Extremely Randomized Trees (Extra Trees).pkl
 *.csv
-experiment.ipynb
-data_ingestion.py
-train.py
-eval.py
-pipeline.py
 Dokumentasi_PROJECT_UAS_MD.docx
 .ipynb_checkpoints/
 .vscode/
